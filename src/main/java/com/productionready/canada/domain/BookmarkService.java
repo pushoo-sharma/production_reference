@@ -1,5 +1,6 @@
 package com.productionready.canada.domain;
 
+import com.productionready.canada.repository.BookmarkRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
